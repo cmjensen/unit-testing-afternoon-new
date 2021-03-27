@@ -50,7 +50,9 @@ export const users = [
   export const shortText = 'This is a very short sentence';
   
   export const longText =
-    'This is a longer string that will be used to test whether or not the shortenText function correctly shortens the text correctly or not.';export const users = [
+    'This is a longer string that will be used to test whether or not the shortenText function correctly shortens the text correctly or not.';
+    
+  export const users = [
         {
           id: 1,
           first: 'Test',
